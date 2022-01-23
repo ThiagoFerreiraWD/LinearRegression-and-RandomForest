@@ -1,3 +1,3 @@
-# RegressaoLogistica
+# Regressao Logistica
 
-EM CONSTRUÇÃO
+# EM CONSTRUÇÃO
