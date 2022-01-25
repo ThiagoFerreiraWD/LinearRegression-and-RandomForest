@@ -1,8 +1,9 @@
 # Regressao Linear e Random Forest
 
-# EM CONSTRUÇÃO
 
-![imovel](https://user-images.githubusercontent.com/54869201/150904258-4e0f9025-1847-4b57-b360-9ab085bf825d.png)
+
+![gifLinearRandom](https://user-images.githubusercontent.com/54869201/150990296-532bb5a4-3d7a-408f-92c2-1fd672c51c13.gif)
+
 
 
 Predição realizada para prever o custo do imóvel
