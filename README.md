@@ -22,9 +22,9 @@ Predição realizada para prever o custo do imóvel
 
 ## Descrição dos arquivos:
 
-1. **.ipynb:** 
-1. **.py:** 
-1. **.csv:** 
+1. **LinearRegression_and_RandomForestRegressor.ipynb:** Resultado da análise exploratória e posterior aplicação dos algoritmos de *Machine Learning*.
+1. **LinearRegression_and_RandomForestRegressor.py:** Resultado da análise exploratória e posterior aplicação dos algoritmos de *Machine Learning*.
+1. **real_valuation.csv:** Base de dados contendo os registros a serem avaliados.
 
 
 
